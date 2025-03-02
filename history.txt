@@ -1,0 +1,24 @@
+    1  ls
+    2  pwd
+    3  whoami
+    4  tp
+    5  top
+    6  df -a
+    7  clear
+    8  pwd
+    9  touch print.sh
+   10  vim print.sh
+   11  ls -ltr
+   12  print.sh
+   13  cat print.sh
+   14  vim print.sh
+   15  sh print.sh
+   16  ./print.sh
+   17  chmod 754 print.sh
+   18  ./print.sh
+   19  chmod 654 print.sh
+   20  ./print.sh
+   21  chmod 754 print.sh
+   22  ./print.sh
+   23  history
+   24  history >> history.txt
