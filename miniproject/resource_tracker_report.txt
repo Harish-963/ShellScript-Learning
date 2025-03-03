@@ -1,0 +1,20 @@
+print list of s3 buckets
+print list of ec2 instances
+"i-08033ba310af08d83"
+print list of lambda functions
+{
+    "Functions": []
+}
+print list of iam users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "harish-user",
+            "UserId": "AIDAXEFUNKLO53L5OVLUH",
+            "Arn": "arn:aws:iam::490004632285:user/harish-user",
+            "CreateDate": "2025-02-18T05:43:21+00:00",
+            "PasswordLastUsed": "2025-03-03T01:34:06+00:00"
+        }
+    ]
+}
